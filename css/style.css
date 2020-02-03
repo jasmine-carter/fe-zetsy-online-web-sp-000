@@ -30,6 +30,6 @@ font-style: normal;
 	border: 10px solid #7F9C99;
 }
 
-img .logo {
-	border: 1px #D2D1D0;
+.logo {
+	border-color: #D2D1D0;
 }
