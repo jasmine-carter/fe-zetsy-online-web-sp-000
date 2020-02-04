@@ -63,8 +63,8 @@ p {
 	border-color: rgb(113,128,124);
 }
 
-footer {
-	content: float-right;
+#footer {
+	float: right;
 	font-size: small;
-	background: #fff;
+	background: #fff
 }
