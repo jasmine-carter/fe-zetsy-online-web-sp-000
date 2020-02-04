@@ -32,6 +32,11 @@ padding-bottom: 10px;
 border-bottom: 1px solid #95ACA5;
 }
 
+h2 {
+	font-style: normal;
+	color: #95ACA5;
+	font-weight: normal;
+}
 #necklace {
 	border: 4px solid #7F9C99;
 }
