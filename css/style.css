@@ -48,3 +48,7 @@ h2 {
 #logo:hover {
 	border-color: rgb(113,128,124);
 }
+
+#footer {
+	float: right;
+}
