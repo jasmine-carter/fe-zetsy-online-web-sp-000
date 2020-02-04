@@ -21,7 +21,7 @@ body {
 }
 
 /* Write all remaining styles here */
-header h1 {
+header a {
 font-family: 'Baskerville', serif;
 font-style: normal;
 color: #95ACA5;
