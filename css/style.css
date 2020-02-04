@@ -30,7 +30,9 @@ font-size: 500%;
 margin-bottom: 5px;
 padding-bottom: 10px;
 text-decoration: none;
+border-bottom: 1px solid;
 }
+
 
 header a:hover {
 	color: rgb(107, 129, 123);
