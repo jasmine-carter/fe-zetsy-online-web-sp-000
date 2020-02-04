@@ -32,6 +32,10 @@ padding-bottom: 10px;
 border-bottom: 1px solid #95ACA5;
 }
 
+h1:hover {
+	color: rgb(107, 129, 123);
+}
+
 h2 {
 	color: rgb(113, 128, 123);
 	font-size: 200%;
