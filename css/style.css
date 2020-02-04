@@ -41,6 +41,10 @@ h2 {
 }
 
 
+p {
+	color: rgb(112, 127, 123);
+}
+
 #logo {
 	border: 5px solid #D2D1D0;
 	padding: 1px;
