@@ -64,7 +64,7 @@ p {
 }
 
 footer {
-	float: right;
+	content: float-right;
 	font-size: small;
 	background: #fff;
 }
